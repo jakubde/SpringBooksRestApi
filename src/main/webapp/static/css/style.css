@@ -1,0 +1,89 @@
+/*@import "https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css";*/
+
+
+.marg-top {
+    margin-top: 15px;
+}
+
+.dark-grey-bckgrnd {
+    background-color: #1E1E1E;
+}
+
+.blue-fnt {
+    color: #494949;
+    font-size: 26px;
+}
+
+.form-font {
+    color: #549CD4;
+}
+
+.solid-border {
+    border-style: solid;
+}
+
+.element-centered{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.temp-border{
+    border-style: solid;
+    border-width: 5px;
+    border-color: coral;
+}
+
+.selected {
+    background-color: #51CAA6;
+}
+
+.in-center{
+    /*text-align: center;*/
+}
+
+.slid-element {
+    background-color: #e0e0e0;
+}
+
+.medium-table{
+    width: 75%;
+}
+
+.legend-width{
+    width: 150px;
+}
+
+.btn-bckgrnd {
+    background-color: #549CD4;
+}
+
+.big-title{
+    font-size: 30px;
+    text-align: center;
+}
+
+.test-bckgrnd{
+    background-color: red;
+}
+
+.double-centered{
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.margined{
+    margin-left: 15% ;
+    margin-right: 15% ;
+    margin-bottom: 40px;
+    /*text-align: center;*/
+    vertical-align: middle;
+}
+
+.upper-margin {
+    margin-top: 30px;
+}
+
+tr:hover:not(.slid-element):not(#thead):not(#tfoot) {
+    background-color: #393939;
+}
