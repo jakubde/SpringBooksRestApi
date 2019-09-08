@@ -1,1 +1,5 @@
 # SpringBooksRestApi
+An API project designed in accordance with REST principles, using the Spring framework that lets you perform main HTTP methods on books.
+
+
+//Help people interested in this repository understand your project by adding a README.
